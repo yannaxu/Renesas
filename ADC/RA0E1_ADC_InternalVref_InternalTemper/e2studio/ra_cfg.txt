@@ -185,7 +185,7 @@ FSP Configuration
       General: Operation voltage: Normal 2
       General: Conversion Clock (fAD): PCLK
       Input: Channel Selection Mode: Select
-      Input: A/D Input channel: Temperature Sensor
+      Input: A/D Input channel: Internal reference voltage
       Input: Negative Side Reference Voltage: VSS
       Input: Positive Side Reference Voltage: VCC
       Interrupts: Callback: NULL

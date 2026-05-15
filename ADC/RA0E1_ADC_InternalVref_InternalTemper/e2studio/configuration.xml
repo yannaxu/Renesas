@@ -190,7 +190,7 @@
       <property id="module.driver.adc.operation_voltage" value="module.driver.adc.operation_voltage.normal2"/>
       <property id="module.driver.adc.conversion_clock" value="module.driver.adc.conversion_clock.div1"/>
       <property id="module.driver.adc.channel_mode" value="module.driver.adc.channel_mode.select"/>
-      <property id="module.driver.adc.input_channel" value="module.driver.adc.input_channel.temperature"/>
+      <property id="module.driver.adc.input_channel" value="module.driver.adc.input_channel.voltage"/>
       <property id="module.driver.adc.negative_vref" value="module.driver.adc.negative_vref.vss"/>
       <property id="module.driver.adc.positive_vref" value="module.driver.adc.positive_vref.vcc"/>
       <property id="module.driver.adc.p_callback" value="NULL"/>

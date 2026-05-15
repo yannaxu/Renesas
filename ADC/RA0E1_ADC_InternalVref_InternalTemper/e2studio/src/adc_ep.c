@@ -303,7 +303,7 @@ fsp_err_t adc_read_data(void)
 
     /* Read the result */
 #ifdef BOARD_RA0E1_FPB
-    err = R_ADC_D_Read (&g_adc_ctrl, ADC_CHANNEL_0, &g_adc_data);
+    err = R_ADC_D_Read (&g_adc_ctrl, ADC_CHANNEL_VOLT, &g_adc_data);
     /* handle error */
     if (FSP_SUCCESS != err)
     {
